@@ -1,0 +1,15 @@
+{
+  "name": "my-static-website",
+  "version": "1.0.0",
+  "description": "A simple static website",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'No build step required for a simple static website'"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
+
