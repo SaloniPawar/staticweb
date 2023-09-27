@@ -1,1 +1,2 @@
 this file is to test if CI/CD pipeline automates the deployment process whenever changes are pushed to the repository.
+2nd line to test pipeline automation
